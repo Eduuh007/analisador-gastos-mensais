@@ -12,8 +12,6 @@ Dashboard interativo para análise de despesas mensais a partir de arquivos CSV.
 - Conversão automática da coluna de datas (se presente)
 - Interface web simples, leve e responsiva usando Dash
 
-
-
 ## ⚙️ Tecnologias e Ferramentas Utilizadas
 
 - **Python 3.11** – linguagem principal
@@ -21,8 +19,6 @@ Dashboard interativo para análise de despesas mensais a partir de arquivos CSV.
 - **Plotly** – para gráficos interativos
 - **Dash** – para construção da interface web
 - **Visual Studio Code** – ambiente de desenvolvimento
-
-
 
 ## 📂 Exemplo de CSV Esperado
 
@@ -34,7 +30,6 @@ Data,Descrição,Categoria,Valor
 2025-07-10,Almoço,Alimentação,40.00
 2025-07-15,Luz,Contas,90.00
 2025-07-20,Gasolina,Transporte,160.00
-
 
 🖼️ Visualização do Dashboard
 
