@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Analisador de Gastos Mensais
 
 Dashboard interativo para análise de despesas mensais a partir de arquivos CSV. O objetivo do projeto é facilitar o controle financeiro pessoal ou profissional, apresentando os gastos em formato de tabela e gráficos interativos, organizados por categoria.
@@ -38,7 +39,7 @@ Data,Descrição,Categoria,Valor
 
 🖼️ Visualização do Dashboard
 
-![Visualização do Analisador de Gastos Mensais](agm1.png)
+![Dashboard preview](./agm1.png)
 
 ▶️ Como Executar Localmente
 Clone o repositório:
@@ -69,3 +70,7 @@ http://127.0.0.1:8050/
 #Python #Dash #Plotly #Pandas #DataAnalysis #Finance #CSV #ControleFinanceiro #Dashboard #VisualizaçãoDeDados #GastosMensais #BudgetTracker #FinanceTracker #Analytics #PersonalFinance
 
 
+=======
+# analisador-gastos-mensais
+Analisador de Gastos Mensais interativo feito em Python com Dash, Pandas e Plotly. Permite upload de arquivos CSV para visualizar despesas por categoria em tabelas e gráficos dinâmicos, facilitando o controle financeiro pessoal ou empresarial.
+>>>>>>> 6fa04882a570dbaa4b2a78fe9897eb0cefef56a7
